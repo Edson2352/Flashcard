@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '100% do jogo',
+    'Quantas horas demora, em média, para zerar o jogo 100%?',
+    '46 horas'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Criador',
+    'Qual é o nome do criador de ULTRAKILL?',
+    'Arsi "Hakita" Patala'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Franquia semelhante',
+    'Qual a franquia de jogos muito semelhante que inclusive serviu de inspiração ao jogo?',
+    'DOOM'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Boss mais forte',
+    'Qual o boss mais diícil do jogo?',
+    'Sysiphus Prime'
 )
